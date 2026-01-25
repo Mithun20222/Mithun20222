@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR4eHlqbWcxd2w0NTFydjR2cDR5dmtlNWdjeTQyeDc5ZjY5Z2pwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="100%" alt="AI Banner"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR4eHlqbWcxd2w0NTFydjR2cDR5dmtlNWdjeTQyeDc5ZjY5Z2pwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="480" style="max-width: 85%; height: auto;" alt="AI Banner"/>
 </p>
 
 <h1 align="center">Hey there, I'm <span style="color:#00BFFF;">Mithun Gullapalli</span></h1>
