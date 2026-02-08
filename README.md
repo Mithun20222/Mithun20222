@@ -20,9 +20,6 @@ I am a **Computer Science & Engineering student at VIT Andhra Pradesh**, special
 
 ## GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun20222&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/Mithun20222/Mithun20222/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
